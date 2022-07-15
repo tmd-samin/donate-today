@@ -1,0 +1,25 @@
+body  { font-family: 'Fira Sans', sans-serif;
+        margin: 0%;}
+#section1  { margin-top: -85px;
+             padding-bottom: 20%;
+             background-image: url(images/flood3.jpg);
+             background-repeat: no-repeat;}
+#d1  { padding-bottom: ;}             
+#h1  { font-size: 100px;
+       text-align: center;
+       padding-top: 120px;        
+       color: white;}
+#h12 { font-size: 100px;
+       text-align: center;        
+      color: white;}    
+.p1  { font-size: 30px;
+       text-align: center;
+       color: white;}
+#a1  { font-size: 40px;
+       text-align: center;
+       text-decoration: none;
+       color: black;
+       margin-left: 45%;
+       padding: 5px 10px;
+       border-radius: 10px;
+       background-image: linear-gradient(khaki,lightyellow);}       
