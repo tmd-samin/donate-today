@@ -52,3 +52,49 @@ body  { font-family: 'Fira Sans', sans-serif;
        background-image: linear-gradient(pink,tomato);}            
 #d3  { text-align: center;}
 .p3  { font-size: 30px;}       
+#box { display: flex;
+       text-align: center;}
+.box  { border: solid 5%;
+        border-radius: 3%; 
+        padding: 2%;
+        margin: 7%;
+        width: 25%;}
+#section4  { display: flex;
+             margin-bottom: 10%;}        
+#d4  { text-align: center;
+       border: solid 5%;
+       border-radius: 3%; 
+       padding: 2%;
+       margin-left: 12%;
+       width: 15%;}
+#d5  { margin-left: 20%;}    
+#a3  { font-size: 150%;
+       text-align: center;
+       text-decoration: none;
+       color: white;
+       margin:0% 25%;
+       padding: 7px 10px;
+       border-radius: 10px;
+       background-image: linear-gradient(pink,tomato);}   
+#d6  { display: flex; 
+       margin-bottom: 10%;}   
+#d7  { margin-left: 10%;}
+#d8  { text-align: center;
+       border: solid 5%;
+       border-radius: 3%; 
+       padding: 2%;
+       margin-left: 12%;
+       width: 15%;}    
+#d9  { text-align: center;}
+.pt  { font-size: 150%;}       
+#email  { text-align: center;
+          width: 30%;
+          margin: 10% 35%;
+          background-image: linear-gradient(khaki,tomato);
+          border-radius: 2%;}
+#ft  { text-align: center;
+       color: red;
+       padding-top: 5%;
+       padding-bottom: 5%;
+       background-color: black;
+       font-family: cursive ;}
